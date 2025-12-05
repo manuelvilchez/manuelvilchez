@@ -9,6 +9,7 @@
 - 🇵🇪 Perú  
 - 📧 **wmvilchezbruno@gmail.com**  
 - 📱 **927 637 535**
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/manuel-vilchezb/
 
 ---
 
@@ -106,3 +107,30 @@ Computación e Informática
 ---
 
 <p align="center">✨ Siempre aprendiendo, siempre construyendo ✨</p>
+
+
+
+# 📊 Estadísticas de GitHub
+
+<div align="center">
+
+  <!-- Estadísticas generales -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=manuelvilchez&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+
+  <!-- Lenguajes más usados -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelvilchez&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+
+  <!-- Racha de contribuciones -->
+  <img 
+    src="https://streak-stats.demolab.com/?user=manuelvilchez&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+
+</div>
+
