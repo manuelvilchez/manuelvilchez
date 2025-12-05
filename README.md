@@ -1,16 +1,95 @@
-## Hi there 👋
+👨‍💻 Manuel Vilchez
+Programador / Backend Developer
 
-<!--
-**manuelvilchez/manuelvilchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Perú
+📧 wmvilchezbruno@gmail.com
 
-Here are some ideas to get you started:
+📱 +51 927 637 535
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sobre mí
+
+Programador con experiencia en desarrollo backend, automatización y administración de servidores Linux.
+Trabajo con Laravel, Python, FastAPI y Docker, orientado a resultados y buenas prácticas.
+
+🛠️ Tecnologías y Herramientas
+💻 Lenguajes
+
+
+
+
+
+
+
+
+
+
+
+
+🔧 Frameworks / Librerías
+
+
+
+
+
+
+
+
+
+
+
+
+🗄️ Bases de datos
+
+
+
+
+☁️ DevOps / Infra
+
+
+
+
+
+
+
+
+🔄 Automatización
+
+
+
+
+💼 Experiencia Profesional
+Programador – Asociación Cultural Sudamericana (2022 – Actualidad)
+
+Desarrollo con Laravel, Livewire y Vue.js.
+
+Integración con Google Classroom, Admin SDK, Drive.
+
+Automatización con Apps Script (Sheets, Gmail, Triggers).
+
+Deploy en Linux, Nginx, Docker, Git.
+
+APIs REST con OAuth y JWT.
+
+Programador – Dumaco SAC (BROKAI) (2021 – 2022)
+
+Sistemas de seguros con Laravel y CodeIgniter.
+
+Consultas SQL optimizadas y reportes.
+
+Integración con APIs internas/externas.
+
+Asistente de Desarrollo – Netcorporate (2020 – 2021)
+
+Desarrollo en ASP.NET + SQL Server.
+
+Reportes automatizados con Python.
+
+🎓 Educación
+
+Computación e Informática – IST Wernher Von Braun (2015 – 2018)
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
